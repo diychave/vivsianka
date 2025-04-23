@@ -1,0 +1,1 @@
+Установите библиотеки: `pip install selenium webdriver-manager`, затем запустите скрипт `python your_script.py`, и данные о товарах сохранятся в `out_1.csv`.
